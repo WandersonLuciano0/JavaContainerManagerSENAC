@@ -1,0 +1,22 @@
+# IDEs (Configurações locais do editor)
+.vscode/
+.idea/
+*.iml
+
+# Maven (Arquivos de compilação)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Banco de Dados (Evita enviar os dados locais do seu PC para o repositório)
+*.db
+*.sqlite
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db

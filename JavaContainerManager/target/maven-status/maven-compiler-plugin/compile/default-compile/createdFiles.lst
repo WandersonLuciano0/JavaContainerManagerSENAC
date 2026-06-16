@@ -1,0 +1,11 @@
+model\NetworkAsset.class
+Main.class
+model\DockerAsset.class
+util\Constants.class
+model\ImageAsset.class
+controller\DashboardController$1.class
+model\ContainerAsset.class
+controller\DashboardController.class
+dao\ConnectionFactory.class
+dao\LogDAO.class
+service\DockerService.class

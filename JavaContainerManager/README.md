@@ -2,6 +2,17 @@
 
 Uma aplicação desktop desenvolvida em Java para o gerenciamento de ativos relacionados a containers (como Containers, Imagens, Redes e Logs). O projeto conta com uma interface gráfica construída em JavaFX e utiliza um banco de dados SQLite para persistência local das informações.
 
+## 📸 Telas do Sistema
+
+![Dashboard Operacional](docs/dashboard.png)
+*Dashboard principal com listagem e status dos containers.*
+
+![Relatório de Performance](docs/performance.png)
+*Gráficos de uso de CPU e Memória RAM dos containers.*
+
+![Histórico do Banco de Dados](docs/historico.png)
+*Registro de logs e ações realizadas no sistema.*
+
 ## 🚀 Funcionalidades
 
 - **Gestão de Containers:** Criação, leitura, atualização e exclusão de registros de containers.
